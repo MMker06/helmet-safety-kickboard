@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 편집기
+.vscode/
+.idea/
+*.swp
+
+# 파이썬
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 대회 제출 서류 / 개인정보 (절대 커밋 금지)
+*.hwp
+*.hwpx
+*.pptx
+*.xlsx
+*참가신청서*
+*동의서*
+*서약서*
+*약정서*
+*증명서*
+*선임증*
+*신청서*
+
+# 모델 / 데이터 / 영상
+*.pt
+*.keras
+*.h5
+*.weights
+datasets/
+data/
+*.mp4
+*.mov
